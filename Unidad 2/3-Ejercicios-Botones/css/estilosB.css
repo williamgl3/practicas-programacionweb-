@@ -156,3 +156,8 @@ transition: 0s;
     border-radius: 50px;
     cursor: pointer;
 }
+
+button {
+    margin-bottom: 10px; /* Espacio entre botones verticalmente */
+    margin-right: 10px; /* Espacio entre botones horizontalmente */
+}

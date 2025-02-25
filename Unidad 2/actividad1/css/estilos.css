@@ -1,0 +1,18 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif; /* Define la fuente del texto */
+    font-size: 35px; /* Establece el tamaño de la fuente */
+    color: red; /* Cambia el color del texto a rojo */
+}
+/* Estilos para los párrafos con la clase "parrafo-principal" */
+.parrafo-principal {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+                 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; /* Define una fuente moderna y legible */
+    font-size: 20px; /* Ajusta el tamaño del texto */
+    color: brown; /* Establece el color marrón para el texto */
+}
+/* Estilos para las imágenes con la clase "imagenes" */
+.imagenes {
+    width: 300px; /* Define el ancho de la imagen */
+    height: 250px; /* Define la altura de la imagen */
+    border-radius: 25%; /* Aplica bordes redondeados con un radio del 25% */
+}
